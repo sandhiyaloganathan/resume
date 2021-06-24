@@ -1,0 +1,31 @@
+img{
+width:200px;
+}
+body{
+  background: #E4F9F5;
+}
+.top{
+  font-size: 2rem;
+}
+.v1{
+  border-left: 2px solid black;
+  margin-left: 400px;
+ height: 670px;
+}
+.left{
+position: absolute;
+top: 250px;
+}
+.right{
+  margin-left: 420px;
+  position: absolute;
+  top:245px;
+}
+.icon{
+    margin-left: 20px;
+  /* .icon:hover{
+    color: #EAF6F6; */
+}
+h3{
+ text-decoration: underline;
+}
